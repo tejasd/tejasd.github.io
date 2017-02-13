@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/tejasd
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://tejasd.co
+  * I am tejasd (https://keybase.io/tejasd) on keybase.
+  * I have a public key ASDC3OT5qy2nlcwE1rhDiHrANRlpPCr25-wC6P-C7ZC3sQo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120c2dce4f9ab2da795cc04d6b843887ac03519693c2af6e7ec02e8ff82ed90b7b10a",
+            "host": "keybase.io",
+            "kid": "0120c2dce4f9ab2da795cc04d6b843887ac03519693c2af6e7ec02e8ff82ed90b7b10a",
+            "uid": "11c13f8b16a41eedb66f656bb9eabb19",
+            "username": "tejasd"
+        },
+        "service": {
+            "hostname": "tejasd.co",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1487004645,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1487004603,
+        "hash": "5e28ab357c3cb2584869e649e74662d86409a9ea8e2884d5a5cff0c10a71a19639f94dc7c6ab4d5b27db99190b164a66b7bfb80c8a6296a45bc72303b31d9350",
+        "seqno": 884656
+    },
+    "prev": "416cf90036cff789b406e0520b56f7dd9da4b44599e33c712414073ad87af314",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgwtzk+astp5XMBNa4Q4h6wDUZaTwq9ufsAuj/gu2Qt7EKp3BheWxvYWTFAu57ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYzJkY2U0ZjlhYjJkYTc5NWNjMDRkNmI4NDM4ODdhYzAzNTE5NjkzYzJhZjZlN2VjMDJlOGZmODJlZDkwYjdiMTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYzJkY2U0ZjlhYjJkYTc5NWNjMDRkNmI4NDM4ODdhYzAzNTE5NjkzYzJhZjZlN2VjMDJlOGZmODJlZDkwYjdiMTBhIiwidWlkIjoiMTFjMTNmOGIxNmE0MWVlZGI2NmY2NTZiYjllYWJiMTkiLCJ1c2VybmFtZSI6InRlamFzZCJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoidGVqYXNkLmNvIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xOCJ9LCJjdGltZSI6MTQ4NzAwNDY0NSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDg3MDA0NjAzLCJoYXNoIjoiNWUyOGFiMzU3YzNjYjI1ODQ4NjllNjQ5ZTc0NjYyZDg2NDA5YTllYThlMjg4NGQ1YTVjZmYwYzEwYTcxYTE5NjM5Zjk0ZGM3YzZhYjRkNWIyN2RiOTkxOTBiMTY0YTY2YjdiZmI4MGM4YTYyOTZhNDViYzcyMzAzYjMxZDkzNTAiLCJzZXFubyI6ODg0NjU2fSwicHJldiI6IjQxNmNmOTAwMzZjZmY3ODliNDA2ZTA1MjBiNTZmN2RkOWRhNGI0NDU5OWUzM2M3MTI0MTQwNzNhZDg3YWYzMTQiLCJzZXFubyI6OCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxECEbuamHUHs998zkZ9nyH5Ez5zllxFMomJYYqxieUwlcCgfvY+uCDbREeYeX57bLuMzwUVuEH0TAL0X4pgrxdwGqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQguJfvBBj1b8ZjzSqlFmnxzms2q1pC5Ju9XBHyy1uH792jdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tejasd
+
+==================================================================
